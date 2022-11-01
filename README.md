@@ -28,27 +28,27 @@
 
 <p align="center">
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/HTML.svg" alt="html" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/HTML.svg" alt="html" style="vertical-align:top; margin:4px">
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/CSS.svg" alt="css" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/CSS.svg" alt="css" style="vertical-align:top; margin:4px">
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Javascript.svg" alt="js" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Javascript.svg" alt="js" style="vertical-align:top; margin:4px">
   &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Python.svg" alt="python" style="vertical-align:top; margin:4px">
-  &nbsp&nbsp&nbsp&nbsp
-  <br>
-  <br>
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-  &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Thailwind.svg" alt="thailwind" style="vertical-align:top; margin:4px">
-  &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Sass.svg" alt="sass" style="vertical-align:top; margin:4px">
-  &nbsp&nbsp&nbsp&nbsp
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/React.svg" alt="react" style="vertical-align:top; margin:4px">
-  <br>
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Python.svg" alt="python" style="vertical-align:top; margin:4px">
   &nbsp&nbsp&nbsp&nbsp
   <br>
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Node.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+  <br>
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
+  &nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Thailwind.svg" alt="thailwind" style="vertical-align:top; margin:4px">
+  &nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Sass.svg" alt="sass" style="vertical-align:top; margin:4px">
+  &nbsp&nbsp&nbsp&nbsp
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/React.svg" alt="react" style="vertical-align:top; margin:4px">
+  <br>
+  &nbsp&nbsp&nbsp&nbsp
+  <br>
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Node.svg" alt="nodejs" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -56,7 +56,7 @@
 <h3 align="center">Development Tools</h3>
 
 <p align="center">
-  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Visual%20studio.svg" alt="visual studio code" style="vertical-align:top; margin:4px">
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/cardgithub/Visual%20Studio%20Code.svg">
 </p>
 
 ---
