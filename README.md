@@ -12,7 +12,7 @@
 
 ---
 
-<details align="left">
+<h3 align="center">
   <summary>GitHub Trophies 🏆</summary>
   <br>
 <p align="center">
@@ -20,7 +20,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
   </a>
 </p>
-</details>
+</h3>
 
 ---
 
@@ -49,6 +49,14 @@
   &nbsp&nbsp&nbsp&nbsp
   <br>
   <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Node.svg" alt="nodejs" style="vertical-align:top; margin:4px">
+</p>
+
+---
+
+<h3 align="center">Development Tools</h3>
+
+<p align="center">
+  <img src="https://github.com/arif-budianto/arif-budianto/blob/main/assets/svg-icon/Visual%20studio.svg" alt="visual studio code" style="vertical-align:top; margin:4px">
 </p>
 
 ---
