@@ -19,15 +19,13 @@
 
 ---
 
-<h3 align="center">
-  <summary>GitHub Trophies 🏆</summary>
+<h3 align="center">GitHub Trophies 🏆</h3>
   <br>
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
       <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=gruvbox&column=3&margin-w=15&margin-h=15"/>
     </a>
   </p>
-</h3>
 
 ---
 
