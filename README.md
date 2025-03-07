@@ -11,24 +11,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AA6F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Engineer;Solution+Architect;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 📊 GitHub Stats
+## ⚡ GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/arif-budianto">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arif-budianto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/arif-budianto">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-budianto&theme=radical&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=radical&hide_border=true&count_private=true&show_owner=true&include_all_commits=true&custom_title=🚀 Arif's GitHub Statistics" width="49%" alt="Arif's GitHub Stats"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-budianto&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex&card_width=445" alt="Top Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
 </div>
 
-## 🏆 GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A,SECRET&title=MultiLanguage,Commits,Followers,Stars,Issues,Organizations,Repositories,Experience,Education" width="98%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&theme=radical&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&custom_title=Arif%20Budianto's%20Contribution%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Arif's Activity Graph" width="100%"/>
 </div>
 
 ## 💻 Tech Stack
