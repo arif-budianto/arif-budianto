@@ -14,13 +14,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arif-budianto&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=radical&hide_border=true&count_private=true&show_owner=true&include_all_commits=true&custom_title=🚀 Arif's GitHub Statistics" width="49%" alt="Arif's GitHub Stats"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-budianto&theme=radical&hide_border=true" width="49%" alt="GitHub Streak"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=radical&hide_border=true&langs_count=10&hide=jupyter%20notebook,tex&card_width=445" alt="Top Languages"/>
 </div>
 
 ## 🏆 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=dracula&column=6&margin-w=15&margin-h=15&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A,SECRET&title=MultiLanguage,Commits,Followers,Stars,Issues,Organizations,Repositories,Experience,Education" width="98%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&theme=radical&hide_border=true&custom_title=🔥%20Contribution%20Graph" width="98%" alt="Contribution Graph"/>
 </div>
 
 ## 💻 Tech Stack
