@@ -4,7 +4,7 @@
   <p><em>An innovative IT Engineer & Full Stack Developer crafting digital solutions from Indonesia 🇮🇩</em></p>
   
   [![Website](https://img.shields.io/badge/Website-tigers.my.id-blue?style=flat-square&logo=google-chrome)](https://tigers.my.id)
-  [![Profile Views](https://komarev.com/ghpvc/?username=arif-budianto&label=Profile%20views&color=0e75b6&style=flat)](https://arifbudianto.peramasmandiri.net)
+  [![Profile Views](https://komarev.com/ghpvc/?username=arif-budianto&label=Profile%20views&color=0e75b6&style=flat)](https://tigers.my.id)
 </div>
 
 <div align="center">
