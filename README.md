@@ -119,13 +119,13 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="https://www.instagram.com/arifbudianto_20/">
+  <a href="https://www.instagram.com/tigers_403/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://api.whatsapp.com/send?phone=+6282219567904">
+  <a href="https://api.whatsapp.com/send?phone=+6281349993773">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://t.me/Tigers_20">
+  <a href="https://t.me/Tigers_403">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
   <a href="https://discord.com/invite/mntryCEEf4">
