@@ -71,7 +71,13 @@ const arif = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <picture>
+    <source 
+      srcset="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
+  </picture>
 </div>
 
 ---
@@ -82,17 +88,35 @@ const arif = {
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%" />
+        <picture>
+          <source 
+            srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=7200"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&count_private=true&include_all_commits=true&cache_seconds=7200" alt="GitHub Stats" width="100%" />
+        </picture>
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.demolab.com/?user=arif-budianto&theme=tokyonight&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" width="100%" />
+        <picture>
+          <source 
+            srcset="https://streak-stats.demolab.com/?user=arif-budianto&theme=tokyonight&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=j%20M%5B%20Y%5D"
+            media="(prefers-color-scheme: dark)"
+          />
+          <img src="https://github-readme-streak-stats.demolab.com/?user=arif-budianto&theme=tokyonight&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width="100%" />
+        </picture>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF" alt="Top Languages" width="50%" />
+  <picture>
+    <source 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF&cache_seconds=7200"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=00000000&title_color=3B82F6&text_color=FFFFFF&cache_seconds=7200" alt="Top Languages" width="50%" />
+  </picture>
 </div>
 
 ---
@@ -190,7 +214,13 @@ const arif = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" loading="lazy" />
+  </picture>
 </div>
 
 ---
