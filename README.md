@@ -1,140 +1,112 @@
-# <div align="center">Hi there, I'm Arif Budianto! 👋</div>
-
 <div align="center">
-  <p><em>An innovative IT Engineer & Full Stack Developer crafting digital solutions from Indonesia 🇮🇩</em></p>
-  
-  [![Website](https://img.shields.io/badge/Website-tigers.my.id-blue?style=flat-square&logo=google-chrome)](https://tigers.my.id)
-  [![Profile Views](https://komarev.com/ghpvc/?username=arif-budianto&label=Profile%20views&color=0e75b6&style=flat)](https://tigers.my.id)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=020024,090979,00d4ff&height=250&section=header&text=Arif%20Budianto&fontSize=80&fontAlign=50&fontAlignY=35&desc=Network%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Solution%20Architect&descAlign=50&descAlignY=65&animation=fadeIn" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6AA6F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;IT+Engineer;Solution+Architect;Always+learning+new+things" alt="Typing SVG" />
-</div>
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/arif-budianto">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arif-budianto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&langs_count=8&theme=radical"/>
+  <a href="https://www.arifbudianto.my.id" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE-www.arifbudianto.my.id-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/arif-budianto">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arif-budianto&theme=radical&hide_border=true&background=0D1117&stroke=0000"/>
+  <a href="https://api.whatsapp.com/send?phone=+6281349993773" target="_blank">
+    <img src="https://img.shields.io/badge/WHATSAPP-Chat%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arif-budianto&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&custom_title=Arif%20Budianto's%20Contribution%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Arif's Activity Graph" width="100%"/>
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  
-  <!-- Database -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
-</div>
-
-## 🛠 Development Tools
-
-<div align="center">
-  <!-- IDEs/Editors -->
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/PHPStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white" alt="PHPStorm"/>
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm"/>
-  <img src="https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime Text"/>
-  
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  <img src="https://img.shields.io/badge/Bitbucket-0047B3?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/>
-  
-  <!-- CI/CD -->
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Circle_CI-343434?style=for-the-badge&logo=circleci&logoColor=white" alt="CircleCI"/>
-  
-  <!-- Project Management -->
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
-  
-  <!-- API Tools -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia"/>
-</div>
-
-## 💻 Workspace Setup
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-</div>
-
-## ☕️ Support Me
-
-<div align="center">
-  <a href="https://www.buymeacoffee.com/" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px">
+  <a href="https://www.instagram.com/tigers_403/" target="_blank">
+    <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:contact@arifbudianto.my.id">
+    <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-## 🌐 Connect with me
+<br/>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      
+### 👨‍💻 About Me
+
+Hi, I'm **Arif** from Indonesia 🇮🇩. 
+I bridge the gap between **Hardware/Network** and **Software Development**.
+
+Saya bukan hanya menulis kode, tapi juga merancang infrastruktur jaringannya.
+
+- 🔭 **Focus:** Building scalable web apps with Next.js/Nuxt.js on top of solid Network Infrastructure (Mikrotik/Linux).
+- 💼 **Specialty:** ISP Management Systems, PPPoE/Hotspot Automation, & Fullstack Web.
+- ⚙️ **Gear:** MacBook Pro M4 Pro 🚀
+- 💬 **Ask me about:** Routing (BGP/OSPF), React/Vue, or Drizzle ORM.
+
+<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&width=350&lines=IT+Engineer+%26+Network+Expert;Full+Stack+Developer+(JS%2FTS);PostgreSQL+%2B+Drizzle+Enthusiast;Mikrotik+RouterOS+Mastery" alt="Typing SVG" />
+</div>
+
+</td>
+<td width="45%" valign="top">
+
+### 📊 Github Stats
 
 <div align="center">
-  <a href="https://www.instagram.com/tigers_403/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+6281349993773">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  <a href="https://t.me/Tigers_403">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://discord.com/invite/mntryCEEf4">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" width="100%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🛠️ Technical Arsenal
+
+Saya menggunakan teknologi modern yang terbukti *reliable* di production.
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><b>Frontend<br/>Fullstack</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,react,vue,ts,tailwind,html,css" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Backend<br/>Database</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,prisma,php,laravel,python" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>Network<br/>DevOps</b></td>
+      <td>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,aws,git,github,vscode,vim" />
+        </a>
+        <br/>
+        <img src="https://img.shields.io/badge/Mikrotik-RouterOS-E53935?style=flat-square&logo=mikrotik&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/Protocol-BGP%20%2F%20OSPF-blue?style=flat-square" height="25"/>
+        <img src="https://img.shields.io/badge/VPN-Wireguard-880000?style=flat-square&logo=wireguard&logoColor=white" height="25"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/arif-budianto/arif-budianto/actions/workflows/snake.yml">
+    <img src="https://github.com/arif-budianto/arif-budianto/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <em>Let's create something amazing together! 😊</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d4ff,090979,020024&height=100&section=footer" width="100%"/>
+  <p style="font-size: 12px;">Last updated: 2025 • Designed by Arif Budianto</p>
 </div>
