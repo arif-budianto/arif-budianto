@@ -21,7 +21,7 @@
 
 <table>
   <tr>
-    <td width="55%" valign="top">
+    <td width="60%" valign="top">
       
 ### 👨‍💻 About Me
 
@@ -41,14 +41,16 @@ Saya bukan hanya menulis kode, tapi juga merancang infrastruktur jaringannya.
 </div>
 
 </td>
-<td width="45%" valign="top">
+<td width="40%" valign="top">
 
-### 📊 Github Stats
+### ⚡ Quick Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=00000000" width="100%" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=arif-budianto&theme=tokyonight&hide_border=true&background=00000000&ring=3B82F6&currStreakLabel=3B82F6" width="100%" alt="Streak Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" width="100%" />
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arif-budianto&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" width="100%" alt="Top Langs" />
 </div>
 
 </td>
@@ -96,17 +98,14 @@ Saya menggunakan teknologi modern yang terbukti *reliable* di production.
 
 <br/>
 
-### 📈 Contribution Activity
+### 📈 Activity Graph
 
 <div align="center">
-  <a href="https://github.com/arif-budianto/arif-budianto/actions/workflows/snake.yml">
-    <img src="https://github.com/arif-budianto/arif-budianto/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&bg_color=1a1b27&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d4ff,090979,020024&height=100&section=footer" width="100%"/>
-  <p style="font-size: 12px;">Last updated: 2025 • Designed by Arif Budianto</p>
 </div>
