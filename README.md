@@ -96,8 +96,18 @@ Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monit
 ## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arif-budianto&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=arif-budianto&theme=tokyonight&hide_border=true&background=00000000&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" alt="GitHub Streak" width="49%" />
+  <img src="https://img.shields.io/github/followers/arif-budianto?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/arif-budianto?style=for-the-badge&logo=github&label=Total%20Stars&color=0ea5e9" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/arif-budianto/Github?style=for-the-badge&logo=github&label=Last%20Update&color=0ea5e9" alt="Last Commit" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif-budianto&theme=github_dark" width="98%" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif-budianto&theme=github_dark" width="49%" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arif-budianto&theme=github_dark" width="49%" alt="Most Commit Language" />
 </div>
 
 <div align="center">
