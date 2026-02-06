@@ -26,10 +26,10 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 ## Core Expertise
 
 <div align="center">
-  <table>
+  <table cellpadding="12">
     <tr>
       <td width="320" valign="top" align="left">
-        <h3>🌐 Network Engineering</h3>
+        <p><strong>🌐 Network Engineering</strong></p>
         <ul>
           <li>Mikrotik RouterOS</li>
           <li>BGP / OSPF / VLAN / QoS</li>
@@ -38,7 +38,7 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
         </ul>
       </td>
       <td width="320" valign="top" align="left">
-        <h3>⚙️ Backend & Data</h3>
+        <p><strong>⚙️ Backend & Data</strong></p>
         <ul>
           <li>Node.js / Express / TypeScript</li>
           <li>PostgreSQL / Prisma / Drizzle</li>
@@ -47,7 +47,7 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
         </ul>
       </td>
       <td width="320" valign="top" align="left">
-        <h3>💻 Frontend & Platform</h3>
+        <p><strong>💻 Frontend & Platform</strong></p>
         <ul>
           <li>Next.js / Nuxt.js / React / Vue</li>
           <li>Tailwind CSS</li>
