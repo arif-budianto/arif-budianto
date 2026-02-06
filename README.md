@@ -25,37 +25,39 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 
 ## Core Expertise
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🌐 Network Engineering</h3>
-      <ul>
-        <li>Mikrotik RouterOS</li>
-        <li>BGP / OSPF / VLAN / QoS</li>
-        <li>PPPoE & Hotspot Automation</li>
-        <li>RADIUS & VPN (WireGuard)</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚙️ Backend & Data</h3>
-      <ul>
-        <li>Node.js / Express / TypeScript</li>
-        <li>PostgreSQL / Prisma / Drizzle</li>
-        <li>REST API & Real-time Services</li>
-        <li>System Integration & Automation</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>💻 Frontend & Platform</h3>
-      <ul>
-        <li>Next.js / Nuxt.js / React / Vue</li>
-        <li>Tailwind CSS</li>
-        <li>Dashboard & Admin Systems</li>
-        <li>Docker / Linux / Nginx / Cloudflare</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table>
+    <tr>
+      <td width="320" valign="top" align="left">
+        <h3>🌐 Network Engineering</h3>
+        <ul>
+          <li>Mikrotik RouterOS</li>
+          <li>BGP / OSPF / VLAN / QoS</li>
+          <li>PPPoE & Hotspot Automation</li>
+          <li>RADIUS & VPN (WireGuard)</li>
+        </ul>
+      </td>
+      <td width="320" valign="top" align="left">
+        <h3>⚙️ Backend & Data</h3>
+        <ul>
+          <li>Node.js / Express / TypeScript</li>
+          <li>PostgreSQL / Prisma / Drizzle</li>
+          <li>REST API & Real-time Services</li>
+          <li>System Integration & Automation</li>
+        </ul>
+      </td>
+      <td width="320" valign="top" align="left">
+        <h3>💻 Frontend & Platform</h3>
+        <ul>
+          <li>Next.js / Nuxt.js / React / Vue</li>
+          <li>Tailwind CSS</li>
+          <li>Dashboard & Admin Systems</li>
+          <li>Docker / Linux / Nginx / Cloudflare</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
