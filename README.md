@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Website-tigers.my.id-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tigers.my.id)
-[![Email](https://img.shields.io/badge/Email-contact%40tigers.my.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tigers.my.id)
+[![Email](https://img.shields.io/badge/Email-contact%40tigers.my.id-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigers@fedoraweb.site)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Professional%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6281349993773)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
 
@@ -132,7 +132,7 @@ Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monit
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tigers.my.id)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigers@fedoraweb.site)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6281349993773)
 [![Website](https://img.shields.io/badge/Website-Visit-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tigers.my.id)
 
