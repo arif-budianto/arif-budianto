@@ -117,7 +117,7 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 </div>
 
 <div align="center">
-  <img src="https://stats.tigers.my.id/api/stats?username=arif-budianto&v=20260320-2" width="100%" alt="GitHub Stats" />
+  <img src="https://stats.tigers.my.id/api/stats?username=arif-budianto&v=20260320-3" width="100%" alt="GitHub Stats" />
 </div>
 
 <div align="center">
