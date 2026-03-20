@@ -26,34 +26,30 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 ## Core Expertise
 
 <div align="center">
-  <table cellpadding="12">
+  <table>
     <tr>
-      <td width="320" valign="top" align="left">
-        <p><strong>🌐 Network Engineering</strong></p>
-        <ul>
-          <li>Mikrotik RouterOS</li>
-          <li>BGP / OSPF / VLAN / QoS</li>
-          <li>PPPoE & Hotspot Automation</li>
-          <li>RADIUS & VPN (WireGuard)</li>
-        </ul>
+      <td width="33.33%" valign="top">
+        <strong>Network Engineering</strong><br/>
+        <sub>Mikrotik RouterOS • BGP • OSPF • VLAN • QoS</sub>
+        <br/><br/>
+        PPPoE &amp; Hotspot Automation<br/>
+        RADIUS &amp; VPN (WireGuard)
       </td>
-      <td width="320" valign="top" align="left">
-        <p><strong>⚙️ Backend & Data</strong></p>
-        <ul>
-          <li>Node.js / Express / TypeScript</li>
-          <li>PostgreSQL / Prisma / Drizzle</li>
-          <li>REST API & Real-time Services</li>
-          <li>System Integration & Automation</li>
-        </ul>
+      <td width="33.33%" valign="top">
+        <strong>Backend &amp; Data</strong><br/>
+        <sub>Node.js • Express • TypeScript</sub>
+        <br/><br/>
+        PostgreSQL • Prisma • Drizzle<br/>
+        REST API &amp; Real-time Services<br/>
+        System Integration &amp; Automation
       </td>
-      <td width="320" valign="top" align="left">
-        <p><strong>💻 Frontend & Platform</strong></p>
-        <ul>
-          <li>Next.js / Nuxt.js / React / Vue</li>
-          <li>Tailwind CSS</li>
-          <li>Dashboard & Admin Systems</li>
-          <li>Docker / Linux / Nginx / Cloudflare</li>
-        </ul>
+      <td width="33.33%" valign="top">
+        <strong>Frontend &amp; Platform</strong><br/>
+        <sub>Next.js • Nuxt.js • React • Vue</sub>
+        <br/><br/>
+        Tailwind CSS<br/>
+        Dashboard &amp; Admin Systems<br/>
+        Docker • Linux • Nginx • Cloudflare
       </td>
     </tr>
   </table>
