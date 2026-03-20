@@ -104,8 +104,8 @@ Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monit
 </div>
 
 <div align="center">
-  <img src="https://stats.tigers.my.id/api/index?username=arif-budianto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9" width="49%" height="215" alt="GitHub Stats" />
-  <img src="https://stats.tigers.my.id/api/top-langs?username=arif-budianto&layout=donut&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&langs_count=5" width="49%" height="215" alt="Top Languages" />
+  <img src="https://stats.tigers.my.id/api/index?username=arif-budianto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9" width="49%" alt="GitHub Stats" />
+  <img src="https://stats.tigers.my.id/api/top-langs?username=arif-budianto&layout=donut&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&langs_count=5&hide_title=true" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center">
