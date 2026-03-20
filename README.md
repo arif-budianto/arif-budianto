@@ -104,16 +104,16 @@ Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monit
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arif-budianto&theme=github_dark" width="98%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/arif-budianto/arif-budianto/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="Profile Details" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arif-budianto&theme=github_dark" width="49%" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arif-budianto&theme=github_dark" width="49%" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/arif-budianto/arif-budianto/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/arif-budianto/arif-budianto/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&bg_color=1a1b27&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arif-budianto&bg_color=1a1b27&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&include_all_commits=true" width="98%" alt="Contribution Graph"/>
 </div>
 
 ---
