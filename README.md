@@ -77,21 +77,38 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 
 ## Selected Professional Work
 
-### 🏢 Enterprise Portal Platform
-
-End-to-end portal perusahaan untuk operasional harian: CRM, task workflow, invoicing, reporting, dan user-role management.
-
-### 🌐 ISP Management & Billing Suite
-
-Sistem terintegrasi untuk provisioning PPPoE, billing automation, suspend/reactivate otomatis, serta monitoring performa jaringan.
-
-### 🔐 Multi-Site RADIUS Authentication
-
-Implementasi autentikasi terpusat untuk multi-cabang dengan integrasi Mikrotik dan kontrol akses berbasis policy.
-
-### 📊 Network Observability Dashboard
-
-Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monitoring infrastruktur.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Enterprise Portal Platform</strong><br/>
+        <sub>CRM • Task Workflow • Invoicing • Reporting • Role Management</sub>
+        <br/><br/>
+        End-to-end portal perusahaan untuk operasional harian dengan alur kerja yang terintegrasi dan rapi.
+      </td>
+      <td width="50%" valign="top">
+        <strong>ISP Management &amp; Billing Suite</strong><br/>
+        <sub>PPPoE • Billing Automation • Suspend / Reactivate • Monitoring</sub>
+        <br/><br/>
+        Sistem terintegrasi untuk provisioning pelanggan, otomasi billing, serta monitoring performa jaringan ISP.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Multi-Site RADIUS Authentication</strong><br/>
+        <sub>Centralized Access Control • MikroTik Integration • Policy Management</sub>
+        <br/><br/>
+        Implementasi autentikasi terpusat untuk multi-cabang dengan kontrol akses yang konsisten dan mudah dikelola.
+      </td>
+      <td width="50%" valign="top">
+        <strong>Network Observability Dashboard</strong><br/>
+        <sub>Bandwidth • Latency • Uptime • Alerting • Health Monitoring</sub>
+        <br/><br/>
+        Dashboard real-time untuk memantau kondisi infrastruktur, performa layanan, dan kualitas jaringan secara menyeluruh.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
