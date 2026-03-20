@@ -3,14 +3,34 @@
 </div>
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/Website-tigers.my.id-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tigers.my.id)
-[![Email](https://img.shields.io/badge/Email-tigers%40fedoraweb.site-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigers@fedoraweb.site)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Professional%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6281349993773)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=arif-budianto&style=for-the-badge&color=0ea5e9)
-
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://www.tigers.my.id">
+          <img src="https://stats.tigers.my.id/api/contact?label=Website&value=tigers.my.id&icon=globe&accent=38bdf8&v=20260320-1" alt="Website" width="100%"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="mailto:tigers@fedoraweb.site">
+          <img src="https://stats.tigers.my.id/api/contact?label=Email&value=tigers%40fedoraweb.site&icon=email&accent=f97316&v=20260320-1" alt="Email" width="100%"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://api.whatsapp.com/send?phone=6281349993773">
+          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=Professional%20Contact&icon=whatsapp&accent=22c55e&v=20260320-1" alt="WhatsApp" width="100%"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://www.linkedin.com">
+          <img src="https://stats.tigers.my.id/api/contact?label=LinkedIn&value=Professional%20Profile&icon=linkedin&accent=60a5fa&v=20260320-1" alt="LinkedIn" width="100%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=arif-budianto&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views"/>
 </div>
 
 ---
