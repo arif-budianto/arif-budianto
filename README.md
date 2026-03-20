@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://stats.tigers.my.id/api/hero?username=arif-budianto&title_primary=Senior%20Network%20Engineer&title_secondary=Full-Stack%20Developer&experience=14%2B%20Years%20in%20IT&tagline=Building%20ISP%20automation%2C%20backend%20systems%2C%20and%20production-grade%20infrastructure.&v=20260320-1" alt="Header" width="100%"/>
+  <img src="https://stats.tigers.my.id/api/hero?username=arif-budianto&title_primary=Senior%20Network%20Engineer&title_secondary=Full-Stack%20Developer&experience=14%2B%20Years%20in%20IT&tagline=Building%20ISP%20automation%2C%20backend%20systems%2C%20and%20production-grade%20infrastructure.&v=20260320-2" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
