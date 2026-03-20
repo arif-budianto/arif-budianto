@@ -7,30 +7,30 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://www.tigers.my.id">
-          <img src="https://stats.tigers.my.id/api/contact?label=Website&value=tigers.my.id&icon=globe&accent=38bdf8&v=20260320-1" alt="Website" width="100%"/>
+          <img src="https://stats.tigers.my.id/api/contact?label=Website&value=tigers.my.id&icon=globe&accent=38bdf8&v=20260320-2" alt="Website" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="mailto:tigers@fedoraweb.site">
-          <img src="https://stats.tigers.my.id/api/contact?label=Email&value=tigers%40fedoraweb.site&icon=email&accent=f97316&v=20260320-1" alt="Email" width="100%"/>
+          <img src="https://stats.tigers.my.id/api/contact?label=Email&value=tigers%40fedoraweb.site&icon=email&accent=f97316&v=20260320-2" alt="Email" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://api.whatsapp.com/send?phone=6281349993773">
-          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=Professional%20Contact&icon=whatsapp&accent=22c55e&v=20260320-1" alt="WhatsApp" width="100%"/>
+          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=Professional%20Contact&icon=whatsapp&accent=22c55e&v=20260320-2" alt="WhatsApp" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://www.linkedin.com">
-          <img src="https://stats.tigers.my.id/api/contact?label=LinkedIn&value=Professional%20Profile&icon=linkedin&accent=60a5fa&v=20260320-1" alt="LinkedIn" width="100%"/>
+          <img src="https://stats.tigers.my.id/api/contact?label=LinkedIn&value=Professional%20Profile&icon=linkedin&accent=60a5fa&v=20260320-2" alt="LinkedIn" width="100%"/>
         </a>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=arif-budianto&label=PROFILE%20VIEWS&color=0ea5e9&style=flat-square" alt="Profile Views"/>
+  <img src="https://stats.tigers.my.id/api/views?username=arif-budianto&v=20260320-1" alt="Profile Views" width="48%"/>
 </div>
 
 ---
