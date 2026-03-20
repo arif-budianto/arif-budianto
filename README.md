@@ -37,9 +37,11 @@
 
 ## Professional Summary
 
-Network Engineer dan Full-Stack Developer dengan pengalaman **14+ tahun di industri IT**, menggabungkan kekuatan infrastruktur jaringan dan software engineering untuk membangun sistem yang stabil, scalable, dan siap produksi.
+Network Engineer dan Full-Stack Developer dengan pengalaman **14+ tahun di industri IT**, berfokus pada perancangan, pembangunan, dan optimalisasi sistem yang menghubungkan **infrastruktur jaringan**, **platform aplikasi**, dan **operasional bisnis** secara menyeluruh. Saya terbiasa bekerja di persimpangan antara network engineering, backend architecture, automation, dan enterprise web development untuk menghadirkan solusi yang tidak hanya berjalan, tetapi juga **stabil, scalable, secure, dan production-ready**.
 
-Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, serta **pengembangan aplikasi web enterprise** yang terintegrasi langsung dengan kebutuhan operasional bisnis.
+Keahlian utama saya mencakup **arsitektur jaringan dan ISP operations**, **pengembangan aplikasi web enterprise**, **backend API &amp; system integration**, **database engineering**, serta **deployment dan observability** pada lingkungan server modern. Dengan pendekatan yang kuat pada efisiensi operasional dan reliability, saya banyak membangun sistem untuk billing automation, provisioning pelanggan, role-based portal, dashboard monitoring, real-time services, dan integrasi lintas platform yang mendukung kebutuhan bisnis sehari-hari.
+
+Saya juga terbiasa menangani pekerjaan dari level strategis hingga eksekusi teknis mendalam, mulai dari **perencanaan arsitektur**, **hardening &amp; performance tuning**, **modernisasi sistem existing**, sampai implementasi solusi end-to-end yang dapat dipelihara dan dikembangkan dalam jangka panjang. Fokus saya bukan sekadar membuat sistem terlihat modern, tetapi memastikan setiap solusi benar-benar memberi dampak pada **kecepatan operasional, keandalan layanan, dan kesiapan scale-up**.
 
 ---
 
