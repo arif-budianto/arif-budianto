@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24&text=Arif%20Budianto&fontAlign=50&fontAlignY=36&fontSize=70&desc=Senior%20Network%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%2014%2B%20Years%20in%20IT&descAlign=50&descAlignY=62&animation=fadeIn" alt="Header" width="100%"/>
+  <img src="https://stats.tigers.my.id/api/hero?username=arif-budianto&title_primary=Senior%20Network%20Engineer&title_secondary=Full-Stack%20Developer&experience=14%2B%20Years%20in%20IT&tagline=Building%20ISP%20automation%2C%20backend%20systems%2C%20and%20production-grade%20infrastructure.&v=20260320-1" alt="Header" width="100%"/>
 </div>
 
 <div align="center">
