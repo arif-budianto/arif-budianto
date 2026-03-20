@@ -108,7 +108,7 @@ Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monit
 </div>
 
 <div align="center">
-  <img src="https://stats.tigers.my.id/api/langs?username=arif-budianto&v=20260320" width="100%" alt="Most Used Languages" />
+  <img src="https://stats.tigers.my.id/api/langs?username=arif-budianto&v=20260320-2" width="100%" alt="Most Used Languages" />
 </div>
 
 <div align="center">
