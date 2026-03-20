@@ -52,26 +52,41 @@ Saya juga terbiasa menangani pekerjaan dari level strategis hingga eksekusi tekn
     <tr>
       <td width="33.33%" valign="top">
         <strong>Network Engineering</strong><br/>
-        <sub>Mikrotik RouterOS • BGP • OSPF • VLAN • QoS</sub>
+        <sub>MikroTik • Cisco • Juniper • BGP • OSPF • VLAN • QoS</sub>
         <br/><br/>
-        PPPoE &amp; Hotspot Automation<br/>
-        RADIUS &amp; VPN (WireGuard)
+        Routing, switching, segmentation, traffic engineering, high-availability design, firewalling, VPN, dan optimasi performa jaringan untuk enterprise maupun ISP.
       </td>
       <td width="33.33%" valign="top">
-        <strong>Backend &amp; Data</strong><br/>
-        <sub>Node.js • Express • TypeScript</sub>
+        <strong>ISP &amp; Network Automation</strong><br/>
+        <sub>PPPoE • Hotspot • RADIUS • Billing • Provisioning • Monitoring</sub>
         <br/><br/>
-        PostgreSQL • Prisma • Drizzle<br/>
-        REST API &amp; Real-time Services<br/>
-        System Integration &amp; Automation
+        Otomasi operasional ISP end-to-end untuk autentikasi pelanggan, suspend/reactivate, integrasi billing, observability, dan kontrol layanan berbasis policy.
       </td>
       <td width="33.33%" valign="top">
-        <strong>Frontend &amp; Platform</strong><br/>
-        <sub>Next.js • Nuxt.js • React • Vue</sub>
+        <strong>Backend Engineering</strong><br/>
+        <sub>Node.js • Express • NestJS • Fastify • TypeScript • REST • GraphQL</sub>
         <br/><br/>
-        Tailwind CSS<br/>
-        Dashboard &amp; Admin Systems<br/>
-        Docker • Linux • Nginx • Cloudflare
+        Pengembangan API, service layer, real-time communication, webhook integration, auth flow, dan system integration untuk aplikasi production-grade.
+      </td>
+    </tr>
+    <tr>
+      <td width="33.33%" valign="top">
+        <strong>Frontend &amp; Enterprise Applications</strong><br/>
+        <sub>Next.js • Nuxt.js • React • Vue • Svelte • Tailwind CSS</sub>
+        <br/><br/>
+        Pembuatan dashboard, portal internal, admin system, dan aplikasi web bisnis modern dengan fokus pada usability, maintainability, dan performance.
+      </td>
+      <td width="33.33%" valign="top">
+        <strong>Database &amp; System Design</strong><br/>
+        <sub>PostgreSQL • MySQL • MariaDB • MongoDB • Redis • Prisma • Drizzle</sub>
+        <br/><br/>
+        Data modeling, schema planning, query optimization, caching strategy, dan perancangan arsitektur sistem yang scalable, secure, dan mudah dikembangkan.
+      </td>
+      <td width="33.33%" valign="top">
+        <strong>DevOps, Server &amp; Observability</strong><br/>
+        <sub>Docker • Kubernetes • Linux • Nginx • Cloudflare • Grafana • Prometheus • Zabbix</sub>
+        <br/><br/>
+        Deployment pipeline, container orchestration, reverse proxy, VPS operations, monitoring stack, alerting, dan reliability improvement untuk environment produksi.
       </td>
     </tr>
   </table>
