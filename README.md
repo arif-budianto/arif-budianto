@@ -104,12 +104,8 @@ Dashboard real-time untuk bandwidth, latency, uptime, alerting, dan health monit
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arif-budianto/arif-budianto/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arif-budianto/arif-budianto/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/arif-budianto/arif-budianto/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+  <img src="https://stats.tigers.my.id/api/index?username=arif-budianto&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9" width="49%" alt="GitHub Stats" />
+  <img src="https://stats.tigers.my.id/api/top-langs?username=arif-budianto&layout=compact&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9" width="49%" alt="Top Languages" />
 </div>
 
 <div align="center">
