@@ -125,7 +125,7 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 </div>
 
 <div align="center">
-  <img src="https://stats.tigers.my.id/api/progress?username=arif-budianto&v=20260320-1" width="100%" alt="Contribution Momentum" />
+  <img src="https://stats.tigers.my.id/api/progress?username=arif-budianto&v=20260320-2" width="100%" alt="Contribution Momentum" />
 </div>
 
 <div align="center">
