@@ -288,22 +288,98 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
 
 ## Professional Services
 
-- Arsitektur & implementasi infrastruktur jaringan
-- Pengembangan aplikasi web enterprise (frontend + backend)
-- Otomasi ISP operations (PPPoE, hotspot, billing, monitoring)
-- Integrasi API, database design, dan optimasi performa sistem
-- Konsultasi teknis untuk modernisasi sistem IT
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Network Architecture &amp; Infrastructure Engineering</strong><br/>
+        <sub>MikroTik • Cisco • Juniper • VLAN • BGP • OSPF • QoS • VPN • Firewall</sub>
+        <br/><br/>
+        Perancangan, implementasi, segmentasi, routing, hardening, dan optimasi infrastruktur jaringan untuk kebutuhan enterprise, ISP, maupun multi-site environment.
+      </td>
+      <td width="50%" valign="top">
+        <strong>ISP Automation &amp; Subscriber Management Systems</strong><br/>
+        <sub>PPPoE • Hotspot • RADIUS • Billing • Suspend / Reactivate • Monitoring</sub>
+        <br/><br/>
+        Pengembangan sistem otomasi operasional ISP end-to-end, mulai dari provisioning pelanggan, autentikasi, billing automation, hingga observability dan kontrol layanan.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Enterprise Web Application Development</strong><br/>
+        <sub>Next.js • Nuxt.js • React • Vue • TypeScript • Tailwind CSS</sub>
+        <br/><br/>
+        Pembuatan aplikasi web enterprise, portal internal, dashboard operasional, admin system, dan platform bisnis modern dengan fokus pada usability, maintainability, dan performa.
+      </td>
+      <td width="50%" valign="top">
+        <strong>Backend API, Real-time Services &amp; System Integration</strong><br/>
+        <sub>Node.js • Express • NestJS • Fastify • REST API • GraphQL • WebSocket • Webhooks</sub>
+        <br/><br/>
+        Desain dan implementasi backend service, API integration, real-time communication, automation workflow, auth layer, dan integrasi lintas sistem untuk kebutuhan produksi.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Database Engineering &amp; Performance Optimization</strong><br/>
+        <sub>PostgreSQL • MySQL • MariaDB • SQLite • MongoDB • Redis • Prisma • Drizzle</sub>
+        <br/><br/>
+        Database design, schema planning, query optimization, data modeling, caching strategy, dan tuning performa untuk aplikasi yang membutuhkan reliability dan scalability tinggi.
+      </td>
+      <td width="50%" valign="top">
+        <strong>DevOps, Deployment &amp; Server Operations</strong><br/>
+        <sub>Docker • Kubernetes • Nginx • Apache • Caddy • Linux • Ubuntu • Debian • CI/CD</sub>
+        <br/><br/>
+        Setup deployment pipeline, containerized apps, reverse proxy, cloud-edge integration, VPS management, service orchestration, dan operasi server production-grade.
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <strong>Monitoring, Observability &amp; Reliability Improvement</strong><br/>
+        <sub>Grafana • Prometheus • Zabbix • The Dude • PRTG • Alerting • Health Monitoring</sub>
+        <br/><br/>
+        Implementasi observability stack untuk bandwidth, latency, uptime, service health, capacity insight, dan alerting agar troubleshooting lebih cepat dan operasi lebih terukur.
+      </td>
+      <td width="50%" valign="top">
+        <strong>Technical Consulting &amp; IT Modernization</strong><br/>
+        <sub>Architecture Review • Migration Planning • Security Hardening • Refactoring • Performance Audit</sub>
+        <br/><br/>
+        Pendampingan teknis untuk modernisasi sistem IT, evaluasi arsitektur existing, roadmap improvement, serta eksekusi solusi yang lebih efisien, stabil, dan siap dikembangkan.
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
 ## Contact
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tigers@fedoraweb.site)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=6281349993773)
-[![Website](https://img.shields.io/badge/Website-Visit-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.tigers.my.id)
-
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://www.tigers.my.id">
+          <img src="https://stats.tigers.my.id/api/contact?label=Website&value=tigers.my.id&icon=globe&accent=38bdf8&v=20260320-3" alt="Website" width="100%"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="mailto:tigers@fedoraweb.site">
+          <img src="https://stats.tigers.my.id/api/contact?label=Email&value=tigers%40fedoraweb.site&icon=email&accent=f97316&v=20260320-3" alt="Email" width="100%"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://api.whatsapp.com/send?phone=6281349993773">
+          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=Professional%20Contact&icon=whatsapp&accent=22c55e&v=20260320-3" alt="WhatsApp" width="100%"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://www.linkedin.com">
+          <img src="https://stats.tigers.my.id/api/contact?label=LinkedIn&value=Professional%20Profile&icon=linkedin&accent=60a5fa&v=20260320-3" alt="LinkedIn" width="100%"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
