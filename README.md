@@ -19,7 +19,7 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://api.whatsapp.com/send?phone=6281349993773">
-          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=Professional%20Contact&icon=whatsapp&accent=22c55e&v=20260320-3" alt="WhatsApp" width="100%"/>
+          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=%2B62%20813-4999-3773&icon=whatsapp&accent=22c55e&v=20260320-4" alt="WhatsApp" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
@@ -370,7 +370,7 @@ Fokus utama saya ada di area **otomasi ISP**, **arsitektur backend modern**, ser
     <tr>
       <td width="50%" align="center">
         <a href="https://api.whatsapp.com/send?phone=6281349993773">
-          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=Professional%20Contact&icon=whatsapp&accent=22c55e&v=20260320-3" alt="WhatsApp" width="100%"/>
+          <img src="https://stats.tigers.my.id/api/contact?label=WhatsApp&value=%2B62%20813-4999-3773&icon=whatsapp&accent=22c55e&v=20260320-4" alt="WhatsApp" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
