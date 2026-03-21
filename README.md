@@ -29,10 +29,7 @@
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=arif-budianto&style=pixel" alt="" width="1" height="1"/>
-  <br/>
-  <img src="https://stats.tigers.my.id/api/views?username=arif-budianto&tracked_label=Tigers_403&v=20260321-3" alt="Profile Views" width="48%"/>
+  <img src="https://komarev.com/ghpvc/?username=arif-budianto&style=pixel" alt="" width="1" height="1"/><img src="https://stats.tigers.my.id/api/views?username=arif-budianto&tracked_label=Tigers_403&v=20260321-3" alt="Profile Views" width="48%"/>
 </div>
 
 ---
